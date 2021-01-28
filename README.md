@@ -1,4 +1,4 @@
-# lm317-regulator-circuit
+# lm317 Regulator Circuit
 
 ## PCB Design
 
